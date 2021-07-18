@@ -1,2 +1,2 @@
-# JHU-Data-Science-Statistics-and-Machine-Learning-Specialization
+# JHU-Data-Specialization
 My coursework for courses in the Johns Hopkins data science MOOC
